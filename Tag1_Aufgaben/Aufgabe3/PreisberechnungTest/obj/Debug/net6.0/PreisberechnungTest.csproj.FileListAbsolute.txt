@@ -1,0 +1,15 @@
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\bin\Debug\net6.0\PreisberechnungTest.exe
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\bin\Debug\net6.0\PreisberechnungTest.deps.json
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\bin\Debug\net6.0\PreisberechnungTest.runtimeconfig.json
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\bin\Debug\net6.0\PreisberechnungTest.dll
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\bin\Debug\net6.0\PreisberechnungTest.pdb
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.csproj.AssemblyReference.cache
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.AssemblyInfoInputs.cache
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.AssemblyInfo.cs
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.csproj.CoreCompileInputs.cache
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.dll
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\refint\PreisberechnungTest.dll
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.pdb
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\PreisberechnungTest.genruntimeconfig.cache
+C:\Users\Leart Mena\M450_Applikationen_testen\Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\obj\Debug\net6.0\ref\PreisberechnungTest.dll
