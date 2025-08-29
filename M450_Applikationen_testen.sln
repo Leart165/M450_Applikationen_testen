@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tag1_Aufgaben", "Tag1_Aufgaben", "{E2248185-FD7A-0702-06EB-DDD021B69319}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aufgabe3", "Aufgabe3", "{6F20B77B-A59D-8BC9-0E51-186B947B3459}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreisberechnungTest", "Tag1_Aufgaben\Aufgabe3\PreisberechnungTest\PreisberechnungTest.csproj", "{1C0DE48B-B5C1-28C0-253E-25D4D2718730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C0DE48B-B5C1-28C0-253E-25D4D2718730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C0DE48B-B5C1-28C0-253E-25D4D2718730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C0DE48B-B5C1-28C0-253E-25D4D2718730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C0DE48B-B5C1-28C0-253E-25D4D2718730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F20B77B-A59D-8BC9-0E51-186B947B3459} = {E2248185-FD7A-0702-06EB-DDD021B69319}
+		{1C0DE48B-B5C1-28C0-253E-25D4D2718730} = {6F20B77B-A59D-8BC9-0E51-186B947B3459}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1928C3A5-E5D1-41E9-825D-42F1E5C22B33}
+	EndGlobalSection
+EndGlobal

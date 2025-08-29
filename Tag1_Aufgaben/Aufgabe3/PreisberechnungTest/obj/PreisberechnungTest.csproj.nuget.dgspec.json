@@ -1,27 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leart Mena\\M450_Applikationen_testen\\Tag1_Aufgaben\\Aufgabe3\\PreisberechnungTest\\PreisberechnungTest.csproj": {}
+    "/Users/tim/Projekte/M450_Applikationen_testen/Tag1_Aufgaben/Aufgabe3/PreisberechnungTest/PreisberechnungTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leart Mena\\M450_Applikationen_testen\\Tag1_Aufgaben\\Aufgabe3\\PreisberechnungTest\\PreisberechnungTest.csproj": {
+    "/Users/tim/Projekte/M450_Applikationen_testen/Tag1_Aufgaben/Aufgabe3/PreisberechnungTest/PreisberechnungTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leart Mena\\M450_Applikationen_testen\\Tag1_Aufgaben\\Aufgabe3\\PreisberechnungTest\\PreisberechnungTest.csproj",
+        "projectUniqueName": "/Users/tim/Projekte/M450_Applikationen_testen/Tag1_Aufgaben/Aufgabe3/PreisberechnungTest/PreisberechnungTest.csproj",
         "projectName": "PreisberechnungTest",
-        "projectPath": "C:\\Users\\Leart Mena\\M450_Applikationen_testen\\Tag1_Aufgaben\\Aufgabe3\\PreisberechnungTest\\PreisberechnungTest.csproj",
-        "packagesPath": "C:\\Users\\Leart Mena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leart Mena\\M450_Applikationen_testen\\Tag1_Aufgaben\\Aufgabe3\\PreisberechnungTest\\obj\\",
+        "projectPath": "/Users/tim/Projekte/M450_Applikationen_testen/Tag1_Aufgaben/Aufgabe3/PreisberechnungTest/PreisberechnungTest.csproj",
+        "packagesPath": "/Users/tim/.nuget/packages/",
+        "outputPath": "/Users/tim/Projekte/M450_Applikationen_testen/Tag1_Aufgaben/Aufgabe3/PreisberechnungTest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Leart Mena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/tim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,7 +33,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net6.0": {
@@ -50,12 +55,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.36, 6.0.36]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.36, 6.0.36]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.300/RuntimeIdentifierGraph.json"
         }
       }
     }

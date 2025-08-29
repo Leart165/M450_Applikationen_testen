@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "4WpGL3Hcpy6jP/tG/5GVUbmYARabDrS86jc7Vzz3uSQ0SdRm//GVrZyhICG/NVFrw+A8sCLsyoDZ4rjHFlOXkw==",
+  "dgSpecHash": "sXLwc/mYrMA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Leart Mena\\M450_Applikationen_testen\\Tag1_Aufgaben\\Aufgabe3\\PreisberechnungTest\\PreisberechnungTest.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/tim/Projekte/M450_Applikationen_testen/Tag1_Aufgaben/Aufgabe3/PreisberechnungTest/PreisberechnungTest.csproj",
+  "expectedPackageFiles": [
+    "/Users/tim/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/tim/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/tim/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
