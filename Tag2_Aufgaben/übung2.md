@@ -1,0 +1,9 @@
+# Funktionale Black-Box Tests – Autovermietung Webseite
+
+| ID  | Beschreibung                              | Erwartetes Resultat                                                                 | Effektives Resultat                         | Status   | Mögliche Ursache                              |
+|-----|-------------------------------------------|--------------------------------------------------------------------------------------|----------------------------------------------|----------|------------------------------------------------|
+| 1   | Registrierung eines neuen Nutzers         | Nach Eingabe aller Pflichtfelder wird der Account erstellt und eine Bestätigung gesendet. | Account wird nicht erstellt, Fehlermeldung „Ungültige Eingabe“ | Fehler   | Validierung der Eingaben fehlerhaft            |
+| 2   | Fahrzeug-Suche mit Filter (z. B. Datum, Ort, Kategorie) | Webseite zeigt verfügbare Fahrzeuge entsprechend den Suchkriterien.                  | Fahrzeuge werden korrekt angezeigt.          | OK       | –                                              |
+| 3   | Buchung eines Fahrzeugs                   | Nach Auswahl eines Fahrzeugs und Eingabe der Daten wird die Buchung bestätigt.        | Buchung bricht beim Zahlungsprozess ab.       | Fehler   | Schnittstelle zum Zahlungsanbieter gestört      |
+| 4   | Login mit gültigen Zugangsdaten           | Nutzer wird ins persönliche Dashboard weitergeleitet.                                | Nutzer landet korrekt im Dashboard.          | OK       | –                                              |
+| 5   | Stornierung einer bestehenden Buchung     | Nach Klick auf „Stornieren“ erhält der Nutzer eine Bestätigung der Stornierung.       | Keine Rückmeldung nach Klick.                | Fehler   | Datenbank-Update nicht ausgeführt              |
