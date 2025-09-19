@@ -7,6 +7,24 @@
 <!-- * * * * * * * to get started with your project! * * * * * * * -->
 <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
 
+<h1>Studenten-Verwaltung</h1>
+
+<!-- Formular zum Hinzufügen -->
+<input data-testid="input-name" [(ngModel)]="neuerStudent.name" placeholder="Name" />
+<input data-testid="input-alter" [(ngModel)]="neuerStudent.alter" type="number" placeholder="Alter" />
+<button data-testid="button-speichern" (click)="addStudent()">Speichern</button>
+
+<!-- Tabelle mit Studenten -->
+<table data-testid="studenten-tabelle">
+  <tr *ngFor="let student of studenten; let i = index" data-testid="studenten-zeile">
+    <td>{{ student.name }}</td>
+    <td>{{ student.alter }}</td>
+    <td>
+      <button data-testid="button-loeschen" (click)="deleteStudent(i)">Löschen</button>
+    </td>
+  </tr>
+</table>
+
 <style>
   :host {
     --bright-blue: oklch(51.01% 0.274 263.83);
