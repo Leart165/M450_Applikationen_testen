@@ -157,7 +157,6 @@ Es eignet sich besonders gut für **Single Page Applications** wie Angular und b
    ```bash
    cd frontend
    ng serve
-`
 
 2. **Cypress installiert** (falls nicht vorhanden):
 
