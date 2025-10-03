@@ -1,5 +1,7 @@
-package ch.schule.bank.junit5;
+package ch.schule;
 
+
+import ch.schule.Bank;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
