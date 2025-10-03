@@ -10,3 +10,5 @@ Tim Fischer
 - [Tag 2 Aufgaben](/Tag2_Aufgaben)
 - [Tag 3 Aufgaben](/Tag3_Aufgaben)
 - [Tag 4 Aufgaben](/Tag4_Aufgaben)
+- [Teststrategie](/teststrategie)
+- [Projekt](/Projekt)
