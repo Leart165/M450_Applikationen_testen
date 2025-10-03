@@ -153,5 +153,3 @@ public async Task CreateTodo_WithValidData_ReturnsCreatedTodo()
 - **Ziel-Coverage**: 80%+ für kritische Komponenten
 - **Testausführungszeit**: < 30 Sekunden für alle Unit-Tests
 - **Automatisierung**: 100% der Tests in CI/CD Pipeline
-
-- [Projekt](/Projekt)
