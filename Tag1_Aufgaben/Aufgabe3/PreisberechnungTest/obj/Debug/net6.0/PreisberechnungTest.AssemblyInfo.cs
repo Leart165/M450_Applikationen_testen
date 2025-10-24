@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PreisberechnungTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ede061184560f131cb1f7f3d5751cc26c218bde4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbac5f35a3d0afaab74b812e6d902e3b69da87ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("PreisberechnungTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PreisberechnungTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
