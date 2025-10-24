@@ -9,8 +9,8 @@ import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-10-24T09:43:07+0200",
-    comments = "version: 1.5.5.Final, compiler: Eclipse JDT (IDE) 3.44.0.v20251001-1143, environment: Java 21.0.8 (Eclipse Adoptium)"
+    date = "2025-10-24T10:36:24+0200",
+    comments = "version: 1.5.5.Final, compiler: javac, environment: Java 17.0.8 (Oracle Corporation)"
 )
 @Component
 public class IngredientEntityMapperImpl implements IngredientEntityMapper {
@@ -23,11 +23,11 @@ public class IngredientEntityMapperImpl implements IngredientEntityMapper {
 
         Ingredient ingredient = new Ingredient();
 
-        ingredient.setAmount( ingredientEntity.getAmount() );
-        ingredient.setComment( ingredientEntity.getComment() );
         ingredient.setId( ingredientEntity.getId() );
         ingredient.setName( ingredientEntity.getName() );
+        ingredient.setComment( ingredientEntity.getComment() );
         ingredient.setUnit( ingredientEntity.getUnit() );
+        ingredient.setAmount( ingredientEntity.getAmount() );
 
         return ingredient;
     }
@@ -40,11 +40,11 @@ public class IngredientEntityMapperImpl implements IngredientEntityMapper {
 
         IngredientEntity ingredientEntity = new IngredientEntity();
 
-        ingredientEntity.setAmount( ingredient.getAmount() );
-        ingredientEntity.setComment( ingredient.getComment() );
         ingredientEntity.setId( ingredient.getId() );
         ingredientEntity.setName( ingredient.getName() );
+        ingredientEntity.setComment( ingredient.getComment() );
         ingredientEntity.setUnit( ingredient.getUnit() );
+        ingredientEntity.setAmount( ingredient.getAmount() );
 
         return ingredientEntity;
     }
